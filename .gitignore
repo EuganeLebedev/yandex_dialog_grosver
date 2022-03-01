@@ -1,1 +1,5 @@
 /.venv/
+/cert.pem
+/privkey.pem
+ __pycache__
+ .idea
